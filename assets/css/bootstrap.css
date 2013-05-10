@@ -6119,6 +6119,7 @@ a.badge:focus {
   -webkit-border-radius: 6px;
      -moz-border-radius: 6px;
           border-radius: 6px;
+  background-image: url("../img/whale-dna-logo_1000px.jpg");
 }
 
 .hero-unit h1 {
@@ -6127,6 +6128,10 @@ a.badge:focus {
   line-height: 1;
   letter-spacing: -1px;
   color: inherit;
+}
+
+.hero-unit .box {
+  background-color: rgba(255, 255, 255, 0.6);    
 }
 
 .hero-unit li {
