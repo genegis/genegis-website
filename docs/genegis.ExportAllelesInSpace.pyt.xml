@@ -1,0 +1,59 @@
+<metadata xml:lang="en">
+  <Esri>
+    <CreaDate>20130606</CreaDate>
+    <CreaTime>01551500</CreaTime>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <SyncOnce>FALSE</SyncOnce>
+    <scaleRange>
+      <minScale>150000000</minScale>
+      <maxScale>5000</maxScale>
+    </scaleRange>
+    <ArcGISProfile>ItemDescription</ArcGISProfile>
+  </Esri>
+  <dataIdInfo>
+    <idCitation>
+      <resTitle>Export to Alleles In Space</resTitle>
+    </idCitation>
+    <searchKeys>
+      <keyword>export</keyword>
+      <keyword>genetics</keyword>
+      <keyword>spatial</keyword>
+      <keyword>analysis</keyword>
+    </searchKeys>
+    <idCredit>Created by the geneGIS team: Dori Dick, Shaun
+    Walbridge, Scott Baker, Dawn Wright</idCredit>
+  </dataIdInfo>
+  <distInfo>
+    <distributor>
+      <distorFormat>
+        <formatName>ArcToolbox Tool</formatName>
+      </distorFormat>
+    </distributor>
+  </distInfo>
+  <tool displayname="Export to Alleles In Space"
+  name="ExportAllelesInSpace" toolboxalias="">
+    <parameters>
+      <param datatype="Feature Layer" direction="Input"
+      displayname="Input Feature Class"
+      expression="Input_Feature_Class" name="Input_Feature_Class"
+      type="Required" />
+      <param datatype="Field" direction="Input"
+      displayname="Sample ID Field" expression="Sample ID Field"
+      name="Sample ID Field" type="Required" />
+      <param datatype="SQL Expression" direction="Output"
+      displayname="Where Clause" expression="{Where_Clause}"
+      name="Where_Clause" type="Optional" />
+      <param datatype="File" direction="Output"
+      displayname="Output Coordinates File"
+      expression="Output_Coordinates" name="Output_Coordinates"
+      type="Required" />
+      <param datatype="File" direction="Output"
+      displayname="Output Genetics File"
+      expression="Output_Genetics" name="Output_Genetics"
+      type="Required" />
+    </parameters>
+  </tool>
+  <mdHrLv>
+    <ScopeCd value="005" />
+  </mdHrLv>
+</metadata>
