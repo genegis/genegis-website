@@ -7,6 +7,125 @@
       <ref-type name="Journal Article">0</ref-type>
       <contributors>
         <authors>
+          <author>Baker, C Scott</author>
+          <author>Steel, Debbie</author>
+          <author>Calambokidis, John</author>
+          <author>Falcone, Erin</author>
+          <author>Gonz&#195;&#161;lez-Peral, Ursula</author>
+          <author>Barlow, Jay</author>
+          <author>Burdin, Alexander M</author>
+          <author>Clapham, Phillip J</author>
+          <author>Ford, John K B</author>
+          <author>Gabriele, Christine M</author>
+          <author>others</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Strong maternal fidelity and natal philopatry shape
+        genetic structure in North Pacific humpback whales</title>
+        <secondary-title>Mar Ecol Prog Ser</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Mar Ecol Prog Ser</full-title>
+      </periodical>
+      <pages>291-306</pages>
+      <volume>494</volume>
+      <keywords />
+      <dates>
+        <year>2013</year>
+      </dates>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://Baker et al 2013 SPLASH
+          genetics.pdf</url>
+        </pdf-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Barlow, Jay</author>
+          <author>Calambokidis, John</author>
+          <author>Falcone, Erin A</author>
+          <author>Baker, C Scott</author>
+          <author>Burdin, Alexander M</author>
+          <author>Clapham, Phillip J</author>
+          <author>Ford, John K B</author>
+          <author>Gabriele, Christine M</author>
+          <author>LeDuc, Richard</author>
+          <author>Mattila, David K</author>
+          <author>others</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Humpback whale abundance in the North Pacific
+        estimated by photographic capture-recapture with bias
+        correction from simulation studies</title>
+        <secondary-title>Marine Mammal Science</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Marine Mammal Science</full-title>
+      </periodical>
+      <pages>793-818</pages>
+      <volume>27</volume>
+      <issue>4</issue>
+      <keywords />
+      <dates>
+        <year>2011</year>
+      </dates>
+      <publisher>Wiley Online Library</publisher>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://humpback-in-na-2011.pdf</url>
+        </pdf-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Report">10</ref-type>
+      <contributors>
+        <authors>
+          <author>Calambokidis, John</author>
+          <author>Falcone, Erin A</author>
+          <author>Quinn, Terrance J</author>
+          <author>Burdin, Alexander M</author>
+          <author>Clapham, P J</author>
+          <author>Ford, J K B</author>
+          <author>Gabriele, C M</author>
+          <author>LeDuc, R</author>
+          <author>Mattila, D</author>
+          <author>Rojas-Bracho, L</author>
+          <author>others</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>SPLASH: Structure of populations, levels of
+        abundance and status of humpback whales in the North
+        Pacific</title>
+      </titles>
+      <periodical />
+      <keywords />
+      <dates>
+        <year>2008</year>
+      </dates>
+      <publisher>Cascadia Research</publisher>
+      <urls>
+        <pdf-urls>
+          <url>
+          internal-pdf://SPLASH-contract-Report-May08.pdf</url>
+        </pdf-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
           <author>Holmberg, Jason</author>
           <author>Norman, Bradley</author>
           <author>Arzoumanian, Zaven</author>
