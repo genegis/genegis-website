@@ -1,1 +1,1703 @@
-<?xml version="1.0" encoding="UTF-8"?><xml><records><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Holmberg, Jason</author><author>Norman, Bradley</author><author>Arzoumanian, Zaven</author></authors></contributors><titles><title>Robust, comparable population metrics through collaborative photo-monitoring of whale sharks Rhincodon typus.</title><secondary-title>Ecological applications : a publication of the Ecological Society of America</secondary-title></titles><periodical><full-title>Ecological applications : a publication of the Ecological Society of America</full-title></periodical><pages>222-33</pages><volume>18</volume><issue>1</issue><keywords><keyword>Animals</keyword><keyword>Environmental Monitoring</keyword><keyword>Population Density</keyword><keyword>Probability</keyword><keyword>Sharks</keyword></keywords><dates><year>2008</year></dates><accession-num>18372568</accession-num><urls><pdf-urls><url>internal-pdf://EcolApps-ecol-apps-2008.pdf</url></pdf-urls><web-urls><url>http://www.ncbi.nlm.nih.gov/pubmed/18372568</url></web-urls></urls><abstract>The formulation of conservation policy for species that are rare and migratory requires broad cooperation to ensure that adequate levels of standardized data collection are achieved and that the results of local analyses are comparable. Estimates of apparent survival rate, relative change in abundance, and proportions of newly marked and returning individuals can inform local management decisions while highlighting corresponding changes at other linked research stations. We have applied computer-assisted photo-identification and mark-recapture population modeling to whale sharks Rhincodon typus at Ningaloo Marine Park (NMP), Western Australia, to create a baseline trend for comparison with other regional aggregations of the species. We estimate several ecological parameters of interest, including an average apparent survival rate of 0.55 yr(-1) for sharks newly marked (new) and 0.83 yr(-1) for sharks captured in multiple seasons (philopatric). The average proportion of philopatric sharks is found to be 0.65 of the total population, and we derive an average population growth rate of 1.12 yr(-1) for them. Our analysis uncovered significant heterogeneity in capture and survival probabilities in this study population; our chosen model structures and data analysis account for these influences and demonstrate a good overall fit to the time-series data. The results show good correspondence between capture probability and an available measure of recapture effort, suggesting that unmodeled systematic effects contribute insignificantly to the model fits. We find no evidence of a decline in the whale shark population at NMP, and our results provide metrics of value to their future management. Overall, our study suggests an effective approach to analyzing and modeling mark-recapture data for a rare species using computer-assisted photo-identification and opportunistic data collection from ecotourism to ensure the quality and volume of data required for population analysis.</abstract></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Bonin, a</author><author>Ehrich, D</author><author>Manel, S</author></authors></contributors><titles><title>Statistical analysis of amplified fragment length polymorphism data: a toolbox for molecular ecologists and evolutionists.</title><secondary-title>Molecular ecology</secondary-title></titles><periodical><full-title>Molecular ecology</full-title></periodical><pages>3737-58</pages><volume>16</volume><issue>18</issue><keywords><keyword>Biological Evolution</keyword><keyword>Computational Biology</keyword><keyword>Computational Biology: methods</keyword><keyword>Computer Simulation</keyword><keyword>Ecology</keyword><keyword>Ecology: methods</keyword><keyword>Gene Frequency</keyword><keyword>Genetic Markers</keyword><keyword>Genetic Techniques</keyword><keyword>Hybridization, Genetic</keyword><keyword>Phenotype</keyword><keyword>Polymorphism, Genetic</keyword><keyword>Software</keyword></keywords><dates><year>2007</year></dates><accession-num>17850542</accession-num><electronic-resource-num>10.1111/j.1365-294X.2007.03435.x</electronic-resource-num><urls><pdf-urls><url>internal-pdf://manelBoninetal2007AFLP_ME.pdf</url></pdf-urls><web-urls><url>http://www.ncbi.nlm.nih.gov/pubmed/17850542</url></web-urls></urls><abstract>Recently, the amplified fragment length polymorphism (AFLP) technique has gained a lot of popularity, and is now frequently applied to a wide variety of organisms. Technical specificities of the AFLP procedure have been well documented over the years, but there is on the contrary little or scattered information about the statistical analysis of AFLPs. In this review, we describe the various methods available to handle AFLP data, focusing on four research topics at the population or individual level of analysis: (i) assessment of genetic diversity; (ii) identification of population structure; (iii) identification of hybrid individuals; and (iv) detection of markers associated with phenotypes. Two kinds of analysis methods can be distinguished, depending on whether they are based on the direct study of band presences or absences in AFLP profiles ('band-based' methods), or on allelic frequencies estimated at each locus from these profiles ('allele frequency-based' methods). We investigate the characteristics and limitations of these statistical tools; finally, we appeal for a wider adoption of methodologies borrowed from other research fields, like for example those especially designed to deal with binary data.</abstract></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Holmberg, J</author><author>Norman, B</author><author>Arzoumanian, Z</author></authors></contributors><titles><title>Estimating population size, structure, and residency time for whale sharks Rhincodon typus through collaborative photo-identification</title><secondary-title>Endangered Species Research</secondary-title></titles><periodical><full-title>Endangered Species Research</full-title></periodical><pages>39-53</pages><volume>7</volume><issue>May</issue><keywords><keyword>mark-recapture</keyword><keyword>of the publisher</keyword><keyword>open robust design</keyword><keyword>permitted without written consent</keyword><keyword>population biology</keyword><keyword>resale or republication not</keyword><keyword>rhincodon typus</keyword><keyword>survivorship</keyword><keyword>transience</keyword><keyword>whale shark</keyword></keywords><dates><year>2009</year></dates><electronic-resource-num>10.3354/esr00186</electronic-resource-num><urls><pdf-urls><url>internal-pdf://holmberg-collaborative-whale-sharks.pdf</url></pdf-urls><web-urls><url>http://www.int-res.com/abstracts/esr/v7/n1/p39-53/</url></web-urls></urls></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Roberts, Jason J.</author><author>Best, Benjamin D.</author><author>Dunn, Daniel C.</author><author>Treml, Eric a.</author><author>Halpin, Patrick N.</author></authors></contributors><titles><title>Marine Geospatial Ecology Tools: An integrated framework for ecological geoprocessing with ArcGIS, Python, R, MATLAB, and C++</title><secondary-title>Environmental Modelling &amp; Software</secondary-title></titles><periodical><full-title>Environmental Modelling &amp; Software</full-title></periodical><pages>1197-1207</pages><volume>25</volume><issue>10</issue><keywords/><dates><year>2010</year></dates><publisher>Elsevier Ltd</publisher><electronic-resource-num>10.1016/j.envsoft.2010.03.029</electronic-resource-num><urls><pdf-urls><url>internal-pdf://MGET-background-2010.pdf</url></pdf-urls><web-urls><url>http://linkinghub.elsevier.com/retrieve/pii/S1364815210000885</url></web-urls></urls></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Caporaso, JG</author><author>Kuczynski, Justin</author><author>Stombaugh, Jesse</author></authors></contributors><titles><title>QIIME allows analysis of high-throughput community sequencing data</title><secondary-title>Nature …</secondary-title></titles><periodical><full-title>Nature …</full-title></periodical><pages>335-336</pages><volume>7</volume><issue>5</issue><keywords/><dates><year>2010</year></dates><publisher>Nature Publishing Group</publisher><electronic-resource-num>10.1038/nmeth0510-335</electronic-resource-num><urls><pdf-urls><url>internal-pdf://qiime-paper-2010.pdf</url></pdf-urls><web-urls><url>http://dx.doi.org/10.1038/nmeth0510-335</url><url>http://www.nature.com/nmeth/journal/v7/n5/full/nmeth.f.303.html</url></web-urls></urls></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>De Mita, Stéphane</author><author>Siol, Mathieu</author></authors></contributors><titles><title>EggLib: processing, analysis and simulation tools for population genetics and genomics.</title><secondary-title>BMC genetics</secondary-title></titles><periodical><full-title>BMC genetics</full-title></periodical><pages>27</pages><volume>13</volume><issue>1</issue><keywords><keyword>Computer Simulation</keyword><keyword>Genetics, Population</keyword><keyword>Genomics</keyword><keyword>Software</keyword></keywords><dates><year>2012</year></dates><publisher>BioMed Central Ltd</publisher><accession-num>22494792</accession-num><electronic-resource-num>10.1186/1471-2156-13-27</electronic-resource-num><urls><pdf-urls><url>internal-pdf://DeMita-2012-EggLib-pop-genetics-tools.pdf</url></pdf-urls><web-urls><url>http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3350404&amp;tool=pmcentrez&amp;rendertype=abstract</url></web-urls></urls><abstract>With the considerable growth of available nucleotide sequence data over the last decade, integrated and flexible analytical tools have become a necessity. In particular, in the field of population genetics, there is a strong need for automated and reliable procedures to conduct repeatable and rapid polymorphism analyses, coalescent simulations, data manipulation and estimation of demographic parameters under a variety of scenarios.</abstract></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Franklin, Erik C</author><author>Stat, Michael</author><author>Pochon, Xavier</author><author>Putnam, Hollie M</author><author>Gates, Ruth D</author></authors></contributors><titles><title>GeoSymbio: a hybrid, cloud-based web application of global geospatial bioinformatics and ecoinformatics for Symbiodinium-host symbioses.</title><secondary-title>Molecular ecology resources</secondary-title></titles><periodical><full-title>Molecular ecology resources</full-title></periodical><pages>369-73</pages><volume>12</volume><issue>2</issue><keywords><keyword>Animals</keyword><keyword>Computational Biology</keyword><keyword>Computational Biology: instrumentation</keyword><keyword>Computational Biology: methods</keyword><keyword>Dinoflagellida</keyword><keyword>Dinoflagellida: genetics</keyword><keyword>Dinoflagellida: physiology</keyword><keyword>Invertebrates</keyword><keyword>Invertebrates: genetics</keyword><keyword>Invertebrates: physiology</keyword><keyword>Software</keyword><keyword>Symbiosis</keyword><keyword>User-Computer Interface</keyword></keywords><dates><year>2012</year></dates><accession-num>22018222</accession-num><electronic-resource-num>10.1111/j.1755-0998.2011.03081.x</electronic-resource-num><urls><pdf-urls><url>internal-pdf://Franklinetal_GeoSymbio_Hybrid.pdf</url></pdf-urls><web-urls><url>http://www.ncbi.nlm.nih.gov/pubmed/22018222</url></web-urls></urls><abstract>The genus Symbiodinium encompasses a group of unicellular, photosynthetic dinoflagellates that are found free living or in hospite with a wide range of marine invertebrate hosts including scleractinian corals. We present GeoSymbio, a hybrid web application that provides an online, easy to use and freely accessible interface for users to discover, explore and utilize global geospatial bioinformatic and ecoinformatic data on Symbiodinium-host symbioses. The novelty of this application lies in the combination of a variety of query and visualization tools, including dynamic searchable maps, data tables with filter and grouping functions, and interactive charts that summarize the data. Importantly, this application is hosted remotely or 'in the cloud' using Google Apps, and therefore does not require any specialty GIS, web programming or data programming expertise from the user. The current version of the application utilizes Symbiodinium data based on the ITS2 genetic marker from PCR-based techniques, including denaturing gradient gel electrophoresis, sequencing and cloning of specimens collected during 1982-2010. All data elements of the application are also downloadable as spatial files, tables and nucleic acid sequence files in common formats for desktop analysis. The application provides a unique tool set to facilitate research on the basic biology of Symbiodinium and expedite new insights into their ecology, biogeography and evolution in the face of a changing global climate. GeoSymbio can be accessed at https://sites.google.com/site/geosymbio/.</abstract></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Ray, Nicolas</author></authors></contributors><titles><title>Pathmatrix: a Geographical Information System Tool To Compute Effective Distances Among Samples</title><secondary-title>Molecular Ecology Notes</secondary-title></titles><periodical><full-title>Molecular Ecology Notes</full-title></periodical><pages>177-180</pages><volume>5</volume><issue>1</issue><keywords><keyword>2004</keyword><keyword>accepted 06 october 2004</keyword><keyword>distance matrix</keyword><keyword>ecological distance</keyword><keyword>fine-scaled digital represent-</keyword><keyword>heterogeneous landscape</keyword><keyword>isolation by distance</keyword><keyword>least-cost path</keyword><keyword>received 03 september 2004</keyword><keyword>revision received 17 september</keyword><keyword>spatial genetic structure</keyword><keyword>the increasing availability of</keyword></keywords><dates><year>2005</year></dates><electronic-resource-num>10.1111/j.1471-8286.2004.00843.x</electronic-resource-num><notes>124 citations</notes><research-notes>124 citations</research-notes><urls><pdf-urls><url>internal-pdf://pathmatrix-ray-2004.pdf</url></pdf-urls><web-urls><url>http://doi.wiley.com/10.1111/j.1471-8286.2004.00843.x</url></web-urls></urls></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Shirk, a J</author><author>Cushman, S a</author></authors></contributors><titles><title>sGD: software for estimating spatially explicit indices of genetic diversity.</title><secondary-title>Molecular ecology resources</secondary-title></titles><periodical><full-title>Molecular ecology resources</full-title></periodical><pages>922-34</pages><volume>11</volume><issue>5</issue><keywords><keyword>Animals</keyword><keyword>Computer Simulation</keyword><keyword>Conservation of Natural Resources</keyword><keyword>Conservation of Natural Resources: methods</keyword><keyword>Demography</keyword><keyword>Genetic Variation</keyword><keyword>Genetics, Population</keyword><keyword>Ruminants</keyword><keyword>Ruminants: genetics</keyword><keyword>Software</keyword><keyword>Washington</keyword></keywords><dates><year>2011</year></dates><accession-num>21679313</accession-num><electronic-resource-num>10.1111/j.1755-0998.2011.03035.x</electronic-resource-num><urls><pdf-urls><url>internal-pdf://Shirk11_landscape genetics.pdf</url></pdf-urls><web-urls><url>http://www.ncbi.nlm.nih.gov/pubmed/21679313</url></web-urls></urls><abstract>Anthropogenic landscape changes have greatly reduced the population size, range and migration rates of many terrestrial species. The small local effective population size of remnant populations favours loss of genetic diversity leading to reduced fitness and adaptive potential, and thus ultimately greater extinction risk. Accurately quantifying genetic diversity is therefore crucial to assessing the viability of small populations. Diversity indices are typically calculated from the multilocus genotypes of all individuals sampled within discretely defined habitat patches or larger regional extents. Importantly, discrete population approaches do not capture the clinal nature of populations genetically isolated by distance or landscape resistance. Here, we introduce spatial Genetic Diversity (sGD), a new spatially explicit tool to estimate genetic diversity based on grouping individuals into potentially overlapping genetic neighbourhoods that match the population structure, whether discrete or clinal. We compared the estimates and patterns of genetic diversity using patch or regional sampling and sGD on both simulated and empirical populations. When the population did not meet the assumptions of an island model, we found that patch and regional sampling generally overestimated local heterozygosity, inbreeding and allelic diversity. Moreover, sGD revealed fine-scale spatial heterogeneity in genetic diversity that was not evident with patch or regional sampling. These advantages should provide a more robust means to evaluate the potential for genetic factors to influence the viability of clinal populations and guide appropriate conservation plans.</abstract></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Boettiger, AN</author><author>Wittemyer, George</author><author>Starfield, Richard</author></authors></contributors><titles><title>Inferring ecological and behavioral drivers of African elephant movement using a linear filtering approach</title><secondary-title>Ecology</secondary-title></titles><periodical><full-title>Ecology</full-title></periodical><pages>1648-57</pages><volume>92</volume><issue>8</issue><keywords><keyword>Animal</keyword><keyword>Animals</keyword><keyword>Behavior</keyword><keyword>Biological</keyword><keyword>Ecosystem</keyword><keyword>Elephants</keyword><keyword>Elephants: physiology</keyword><keyword>Models</keyword><keyword>Movement</keyword><keyword>Population Dynamics</keyword></keywords><dates><year>2011</year></dates><accession-num>21905431</accession-num><urls><pdf-urls><url>internal-pdf://Boettiger_Inferring(2011).pdf</url></pdf-urls><web-urls><url>http://www.ncbi.nlm.nih.gov/pubmed/21905431</url><url>http://www.esajournals.org/doi/abs/10.1890/10-0106.1</url></web-urls></urls><abstract>Understanding the environmental factors influencing animal movements is fundamental to theoretical and applied research in the field of movement ecology. Studies relating fine-scale movement paths to spatiotemporally structured landscape data, such as vegetation productivity or human activity, are particularly lacking despite the obvious importance of such information to understanding drivers of animal movement. In part, this may be because few approaches provide the sophistication to characterize the complexity of movement behavior and relate it to diverse, varying environmental stimuli. We overcame this hurdle by applying, for the first time to an ecological question, a finite impulse-response signal-filtering approach to identify human and natural environmental drivers of movements of 13 free-ranging African elephants (Loxodonta africana) from distinct social groups collected over seven years. A minimum mean-square error (MMSE) estimation criterion allowed comparison of the predictive power of landscape and ecological model inputs. We showed that a filter combining vegetation dynamics, human and physical landscape features, and previous movement outperformed simpler filter structures, indicating the importance of both dynamic and static landscape features, as well as habit, on movement decisions taken by elephants. Elephant responses to vegetation productivity indices were not uniform in time or space, indicating that elephant foraging strategies are more complex than simply gravitation toward areas of high productivity. Predictions were most frequently inaccurate outside protected area boundaries near human settlements, suggesting that human activity disrupts typical elephant movement behavior. Successful management strategies at the human-elephant interface, therefore, are likely to be context specific and dynamic. Signal processing provides a promising approach for elucidating environmental factors that drive animal movements over large time and spatial scales.</abstract></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Miller, M P</author></authors></contributors><titles><title>Alleles in space (AIS): computer software for the joint analysis of interindividual spatial and genetic information.</title><secondary-title>The Journal of heredity</secondary-title></titles><periodical><full-title>The Journal of heredity</full-title></periodical><pages>722-4</pages><volume>96</volume><issue>6</issue><keywords><keyword>Alleles</keyword><keyword>Demography</keyword><keyword>Genetics</keyword><keyword>Genetics, Population</keyword><keyword>Software</keyword></keywords><dates><year>2005</year></dates><accession-num>16251514</accession-num><electronic-resource-num>10.1093/jhered/esi119</electronic-resource-num><urls><pdf-urls><url>internal-pdf://J Hered-2005-Miller-722-4.pdf</url></pdf-urls><web-urls><url>http://www.ncbi.nlm.nih.gov/pubmed/16251514</url></web-urls></urls></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Wall, Jake</author><author>Wittemyer, George</author><author>Klinkenberg, Brian</author><author>Lemay, Valerie</author><author>Douglas-hamilton, Iain</author></authors></contributors><titles><title>Characterizing properties and drivers of long distance movements by elephants ( Loxodonta africana ) in the Gourma , Mali</title><secondary-title>BIOLOGICAL CONSERVATION</secondary-title></titles><periodical><full-title>BIOLOGICAL CONSERVATION</full-title></periodical><pages>60-68</pages><volume>157</volume><keywords/><dates><year>2013</year></dates><publisher>Elsevier Ltd</publisher><electronic-resource-num>10.1016/j.biocon.2012.07.019</electronic-resource-num><urls><pdf-urls><url>internal-pdf://1-s2.0-S0006320712003394-main.pdf</url></pdf-urls><web-urls><url>http://dx.doi.org/10.1016/j.biocon.2012.07.019</url></web-urls></urls></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Package, Type</author><author>Sebastien, Author</author><author>Paquette, Rioux</author></authors></contributors><titles><title>Package ‘ PopGenKit ’</title></titles><periodical/><keywords/><dates><year>2012</year></dates><urls><pdf-urls><url>internal-pdf://PopGenKit.pdf</url></pdf-urls></urls></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Konovalov, Dmitry a.</author><author>Manning, Clint</author><author>Henshaw, Michael T.</author></authors></contributors><titles><title>Kingroup: a Program for Pedigree Relationship Reconstruction and Kin Group Assignments Using Genetic Markers</title><secondary-title>Molecular Ecology Notes</secondary-title></titles><periodical><full-title>Molecular Ecology Notes</full-title></periodical><pages>779-782</pages><volume>4</volume><issue>4</issue><keywords><keyword>2004</keyword><keyword>accepted 9 august 2004</keyword><keyword>and infer genealogical</keyword><keyword>ecologists use molecular data</keyword><keyword>estimate relatedness</keyword><keyword>increasingly</keyword><keyword>kinship</keyword><keyword>likelihood</keyword><keyword>partition</keyword><keyword>pedigree</keyword><keyword>pedigrees</keyword><keyword>received 24 march 2004</keyword><keyword>revision received 27 july</keyword><keyword>simulation</keyword><keyword>software</keyword><keyword>to reconstruct</keyword></keywords><dates><year>2004</year></dates><electronic-resource-num>10.1111/j.1471-8286.2004.00796.x</electronic-resource-num><urls><pdf-urls><url>internal-pdf://kingroup-paper.pdf</url></pdf-urls><web-urls><url>http://doi.wiley.com/10.1111/j.1471-8286.2004.00796.x</url></web-urls></urls></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Vandergast, Amy G</author><author>Perry, William M</author><author>Lugo, Roberto V</author><author>Hathaway, Stacie a</author></authors></contributors><titles><title>Genetic Landscapes GIS Toolbox: tools to map patterns of genetic divergence and diversity.</title><secondary-title>Molecular ecology resources</secondary-title></titles><periodical><full-title>Molecular ecology resources</full-title></periodical><pages>158-61</pages><volume>11</volume><issue>1</issue><keywords><keyword>Evolution, Molecular</keyword><keyword>Genetic Variation</keyword><keyword>Genetics, Population</keyword><keyword>Genetics, Population: instrumentation</keyword><keyword>Geographic Information Systems</keyword><keyword>Geographic Information Systems: instrumentation</keyword><keyword>Geography</keyword></keywords><dates><year>2011</year></dates><accession-num>21429115</accession-num><electronic-resource-num>10.1111/j.1755-0998.2010.02904.x</electronic-resource-num><urls><pdf-urls><url>internal-pdf://Vandergastetal2010.pdf</url></pdf-urls><web-urls><url>http://www.ncbi.nlm.nih.gov/pubmed/21429115</url></web-urls></urls><abstract>The Landscape Genetics GIS Toolbox contains tools that run in the Geographic Information System software, ArcGIS(®), to map genetic landscapes and to summarize multiple genetic landscapes as average and variance surfaces. These tools can be used to visualize the distribution of genetic diversity across geographic space and to study associations between patterns of genetic diversity and geographic features or other geo-referenced environmental data sets. Together, these tools create genetic landscape surfaces directly from tables containing genetic distance or diversity data and sample location coordinates, greatly reducing the complexity of building and analyzing these raster surfaces in a Geographic Information System.</abstract></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Excoffier, Laurent</author><author>Heckel, Gerald</author></authors></contributors><titles><title>Computer programs for population genetics data analysis: a survival guide.</title><secondary-title>Nature reviews. Genetics</secondary-title></titles><periodical><full-title>Nature reviews. Genetics</full-title></periodical><pages>745-58</pages><volume>7</volume><issue>10</issue><keywords><keyword>Computers</keyword><keyword>Genetics, Population</keyword><keyword>Genetics, Population: methods</keyword><keyword>Humans</keyword><keyword>Software</keyword><keyword>Statistics as Topic</keyword><keyword>Statistics as Topic: methods</keyword></keywords><dates><year>2006</year></dates><accession-num>16924258</accession-num><electronic-resource-num>10.1038/nrg1904</electronic-resource-num><urls><pdf-urls><url>internal-pdf://Excoffier-2006-Nature-population-genetics-software-review.pdf</url></pdf-urls><web-urls><url>http://www.ncbi.nlm.nih.gov/pubmed/16924258</url></web-urls></urls><abstract>The analysis of genetic diversity within species is vital for understanding evolutionary processes at the population level and at the genomic level. A large quantity of data can now be produced at an unprecedented rate, requiring the use of dedicated computer programs to extract all embedded information. Several statistical packages have been recently developed, which offer a panel of standard and more sophisticated analyses. We describe here the functionalities, special features and assumptions of more than 20 such programs, indicate how they can interoperate, and discuss new directions that could lead to improved software and analyses.</abstract></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Etherington, Thomas R.</author></authors></contributors><titles><title>Python based GIS tools for landscape genetics: visualising genetic relatedness and measuring landscape connectivity</title><secondary-title>Methods in Ecology and Evolution</secondary-title></titles><periodical><full-title>Methods in Ecology and Evolution</full-title></periodical><pages>52-55</pages><volume>2</volume><issue>1</issue><keywords/><dates><year>2011</year></dates><electronic-resource-num>10.1111/j.2041-210X.2010.00048.x</electronic-resource-num><urls><pdf-urls><url>internal-pdf://Etherington-2011-Genetic-Landscapes-Toolbox.pdf</url></pdf-urls><web-urls><url>http://doi.wiley.com/10.1111/j.2041-210X.2010.00048.x</url></web-urls></urls></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Arrigo, Nils</author><author>Albert, Loren P</author><author>Mickelson, Pascal G</author><author>Barker, Michael S</author></authors></contributors><titles><title>Quantitative visualization of biological data in Google Earth using R2G2, an R CRAN package.</title><secondary-title>Molecular ecology resources</secondary-title></titles><periodical><full-title>Molecular ecology resources</full-title></periodical><pages>1177-9</pages><volume>12</volume><issue>6</issue><keywords><keyword>2012</keyword><keyword>accepted 1 august 2012</keyword><keyword>keyhole markup language</keyword><keyword>phylogeny</keyword><keyword>r package</keyword><keyword>received 15 may 2012</keyword><keyword>revision received 31 july</keyword><keyword>spatial data visualization</keyword><keyword>species diversity</keyword></keywords><dates><year>2012</year></dates><accession-num>22994899</accession-num><electronic-resource-num>10.1111/1755-0998.12012</electronic-resource-num><urls><pdf-urls><url>internal-pdf://Arrigo12_Google Earth R2.pdf</url></pdf-urls><web-urls><url>http://www.ncbi.nlm.nih.gov/pubmed/22994899</url></web-urls></urls><abstract>We briefly introduce R2G2, an R CRAN package to visualize spatially explicit biological data within the Google Earth interface. Our package combines a collection of basic graph-editing features, including automated placement of dots, segments, polygons, images (including graphs produced with R), along with several complex three-dimensional (3D) representations such as phylogenies, histograms and pie charts. We briefly present some example data sets and show the immediate benefits in communication gained from using the Google Earth interface to visually explore biological results. The package is distributed with detailed help pages providing examples and annotated source scripts with the hope that users will have an easy time using and further developing this package. R2G2 is distributed on http://cran.r-project.org/web/packages.</abstract></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Duforet-frebourg, Nicolas</author><author>Blum, Michael G B</author></authors></contributors><titles><title>Non-stationary patterns of isolation-by-distance: inferring measures of genetic friction.</title></titles><periodical/><keywords><keyword>00 65</keyword><keyword>33 4 56 52</keyword><keyword>38706 la tronche</keyword><keyword>corresponding author</keyword><keyword>faculté de médecine</keyword><keyword>france</keyword><keyword>gene flow</keyword><keyword>genetic barrier</keyword><keyword>isolation by distance</keyword><keyword>laboratoire timc-imag</keyword><keyword>landscape genetics</keyword><keyword>michael blum</keyword><keyword>non-stationary kriging</keyword><keyword>phone</keyword></keywords><urls><pdf-urls><url>internal-pdf://Genetic friction.pdf</url></pdf-urls></urls></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Slothower, Roger L</author><author>Schwarz, Paul A</author><author>Johnston, Kevin M</author></authors></contributors><titles><title>Some Guidelines For Implementing Spatially Explicit , Individual-Based Ecological Models Within Location-Based Raster GIS .</title></titles><periodical/><pages>1-9</pages><keywords/><urls><pdf-urls><url>internal-pdf://Some Guidelines For Implementing Spatially Explicit, Individual-Based Ecological Models Within Location-Based Raster GIS..pdf</url></pdf-urls></urls></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>van Etten, Jacob</author><author>Hijmans, Robert J</author></authors></contributors><titles><title>A geospatial modelling approach integrating archaeobotany and genetics to trace the origin and dispersal of domesticated plants.</title><secondary-title>PloS one</secondary-title></titles><periodical><full-title>PloS one</full-title></periodical><pages>e12060</pages><volume>5</volume><issue>8</issue><keywords><keyword>Archaeology</keyword><keyword>Botany</keyword><keyword>Evolution, Molecular</keyword><keyword>Heterozygote</keyword><keyword>Models, Theoretical</keyword><keyword>Phylogeny</keyword><keyword>Plants</keyword><keyword>Plants: classification</keyword><keyword>Plants: genetics</keyword></keywords><dates><year>2010</year></dates><accession-num>20711460</accession-num><electronic-resource-num>10.1371/journal.pone.0012060</electronic-resource-num><urls><pdf-urls><url>internal-pdf://geospatial-modeling-genetic-distance-vanEtten-2010.pdf</url></pdf-urls><web-urls><url>http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2920323&amp;tool=pmcentrez&amp;rendertype=abstract</url></web-urls></urls><abstract>The study of the prehistoric origins and dispersal routes of domesticated plants is often based on the analysis of either archaeobotanical or genetic data. As more data become available, spatially explicit models of crop dispersal can be used to combine different types of evidence.</abstract></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Peakall, Rod</author><author>Smouse, Peter E.</author></authors></contributors><titles><title>genalex 6: genetic analysis in Excel. Population genetic software for teaching and research</title><secondary-title>Molecular Ecology Notes</secondary-title></titles><periodical><full-title>Molecular Ecology Notes</full-title></periodical><pages>288-295</pages><volume>6</volume><issue>1</issue><keywords><keyword>2005</keyword><keyword>amova</keyword><keyword>analysis that runs within</keyword><keyword>genalex</keyword><keyword>genetic analysis in excel</keyword><keyword>is a cross-platform</keyword><keyword>package for population genetic</keyword><keyword>population genetic analysis</keyword><keyword>received 27 april 2005</keyword><keyword>revision accepted 4 august</keyword><keyword>software</keyword><keyword>spatial autocorrelation</keyword><keyword>teaching</keyword><keyword>twogener</keyword></keywords><dates><year>2006</year></dates><electronic-resource-num>10.1111/j.1471-8286.2005.01155.x</electronic-resource-num><urls><pdf-urls><url>internal-pdf://GenAlEx-genetics-in-excel-2005.pdf</url></pdf-urls><web-urls><url>http://www.blackwell-synergy.com/doi/abs/10.1111/j.1471-8286.2005.01155.x</url></web-urls></urls></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Kidd, David M</author><author>Liu, Xianhua</author></authors></contributors><titles><title>Geophylobuilder 1.0: an Arcgis Extension for Creating 'Geophylogenies'.</title><secondary-title>Molecular ecology resources</secondary-title></titles><periodical><full-title>Molecular ecology resources</full-title></periodical><pages>88-91</pages><volume>8</volume><issue>1</issue><keywords><keyword>data model</keyword><keyword>gis</keyword><keyword>historical biogeography</keyword><keyword>phylogeography</keyword><keyword>population genetics</keyword></keywords><dates><year>2008</year></dates><accession-num>21585723</accession-num><electronic-resource-num>10.1111/j.1471-8286.2007.01925.x</electronic-resource-num><urls><pdf-urls><url>internal-pdf://KiddandLui2008.pdf</url></pdf-urls><web-urls><url>http://www.ncbi.nlm.nih.gov/pubmed/21585723</url></web-urls></urls><abstract>Evolution is inherently a spatiotemporal process; however, despite this, phylogenetic and geographical data and models remain largely isolated from one another. Geographical information systems provide a ready-made spatial modelling, analysis and dissemination environment within which phylogenetic models can be explicitly linked with their associated spatial data and subsequently integrated with other georeferenced data sets describing the biotic and abiotic environment. geophylobuilder 1.0 is an extension for the arcgis geographical information system that builds a 'geophylogenetic' data model from a phylogenetic tree and associated geographical data. Geophylogenetic database objects can subsequently be queried, spatially analysed and visualized in both 2D and 3D within a geographical information systems.</abstract></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Clark, Lindsay V</author><author>Jasieniuk, Marie</author></authors></contributors><titles><title>POLYSAT: an R package for polyploid microsatellite analysis.</title><secondary-title>Molecular ecology resources</secondary-title></titles><periodical><full-title>Molecular ecology resources</full-title></periodical><pages>562-6</pages><volume>11</volume><issue>3</issue><keywords><keyword>Computational Biology</keyword><keyword>Computational Biology: methods</keyword><keyword>Genotype</keyword><keyword>Mathematical Computing</keyword><keyword>Microsatellite Repeats</keyword><keyword>Polyploidy</keyword></keywords><dates><year>2011</year></dates><accession-num>21481215</accession-num><electronic-resource-num>10.1111/j.1755-0998.2011.02985.x</electronic-resource-num><urls><pdf-urls><url>internal-pdf://polysat-r-package-2011.pdf</url></pdf-urls><web-urls><url>http://www.ncbi.nlm.nih.gov/pubmed/21481215</url></web-urls></urls><abstract>We present an R package to help remedy the lack of software for manipulating and analysing autopolyploid and allopolyploid microsatellite data. POLYSAT can handle genotype data of any ploidy, including populations of mixed ploidy, and assumes that allele copy number is always ambiguous in partial heterozygotes. It can import and export genotype data in eight different formats, calculate pairwise distances between individuals using a stepwise mutation and infinite alleles model, estimate ploidy based on allele counts and estimate allele frequencies and pairwise F(ST) values. This software is freely available through the Comprehensive R Archive Network (http://cran.r-project.org/) and includes a thorough tutorial.</abstract></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Wieczorek, John</author><author>Bloom, David</author><author>Guralnick, Robert</author><author>Blum, Stan</author><author>Döring, Markus</author><author>Giovanni, Renato</author><author>Robertson, Tim</author><author>Vieglais, David</author></authors></contributors><titles><title>Darwin Core: an evolving community-developed biodiversity data standard.</title><secondary-title>PLoS ONE</secondary-title></titles><periodical><full-title>PLoS ONE</full-title></periodical><pages>e29715</pages><volume>7</volume><issue>1</issue><keywords><keyword>Animals</keyword><keyword>Biodiversity</keyword><keyword>Biological</keyword><keyword>Biota</keyword><keyword>Data Collection</keyword><keyword>Data Collection: standards</keyword><keyword>Databases</keyword><keyword>Environment</keyword><keyword>Evolution</keyword><keyword>Factual</keyword><keyword>Factual: standards</keyword><keyword>Genetic</keyword><keyword>Genetic Fitness</keyword><keyword>Genetic Fitness: genetics</keyword><keyword>Genetic Fitness: physiology</keyword><keyword>Guidelines as Topic</keyword><keyword>Humans</keyword><keyword>Information Storage and Retrieval</keyword><keyword>Information Storage and Retrieval: standards</keyword><keyword>Models</keyword><keyword>Molecular</keyword><keyword>Selection</keyword><keyword>Validation Studies as Topic</keyword></keywords><dates><year>2012</year></dates><accession-num>22238640</accession-num><electronic-resource-num>10.1371/journal.pone.0029715</electronic-resource-num><urls><pdf-urls><url>internal-pdf://Wieczorek12_Darwin Core_PLoSOne.pdf</url></pdf-urls><web-urls><url>http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3253084&amp;tool=pmcentrez&amp;rendertype=abstract</url></web-urls></urls><abstract>Biodiversity data derive from myriad sources stored in various formats on many distinct hardware and software platforms. An essential step towards understanding global patterns of biodiversity is to provide a standardized view of these heterogeneous data sources to improve interoperability. Fundamental to this advance are definitions of common terms. This paper describes the evolution and development of Darwin Core, a data standard for publishing and integrating biodiversity information. We focus on the categories of terms that define the standard, differences between simple and relational Darwin Core, how the standard has been implemented, and the community processes that are essential for maintenance and growth of the standard. We present case-study extensions of the Darwin Core into new research communities, including metagenomics and genetic resources. We close by showing how Darwin Core records are integrated to create new knowledge products documenting species distributions and changes due to environmental perturbations.</abstract></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Schick, Rs</author><author>Halpin, Pn</author><author>Read, Aj</author><author>Urban, Dl</author><author>Best, Bd</author><author>Good, Cp</author><author>Roberts, Jj</author><author>LaBrecque, Ea</author><author>Dunn, C</author><author>Garrison, Lp</author><author>Hyrenbach, Kd</author><author>McLellan, Wa</author><author>Pabst, Da</author><author>Palka, Dl</author><author>Stevick, P</author></authors></contributors><titles><title>Community structure in pelagic marine mammals at large spatial scales</title><secondary-title>Marine Ecology Progress Series</secondary-title></titles><periodical><full-title>Marine Ecology Progress Series</full-title></periodical><pages>165-181</pages><volume>434</volume><keywords><keyword>cetaceans</keyword><keyword>group contrast mantel test</keyword><keyword>multivariate</keyword><keyword>nonmetric dimensional scaling</keyword><keyword>northwest atlantic ocean</keyword><keyword>of the publisher</keyword><keyword>ordination</keyword><keyword>permitted without written consent</keyword><keyword>resale or republication not</keyword></keywords><dates><year>2011</year></dates><electronic-resource-num>10.3354/meps09183</electronic-resource-num><urls><pdf-urls><url>internal-pdf://Schick11 marine mammal large spatical scales_MEPS.pdf</url></pdf-urls><web-urls><url>http://www.int-res.com/abstracts/meps/v434/p165-181/</url></web-urls></urls></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Dieringer, D</author><author>Schlötterer, C</author></authors></contributors><titles><title>Microsatellite analyser (MSA): a platform independent analysis tool for large microsatellite data sets</title><secondary-title>Molecular Ecology Notes</secondary-title></titles><periodical><full-title>Molecular Ecology Notes</full-title></periodical><pages>2002-2004</pages><keywords><keyword>2002</keyword><keyword>accepted 3 october 2002</keyword><keyword>f st</keyword><keyword>genetic distances</keyword><keyword>into one of the</keyword><keyword>large</keyword><keyword>microsatellites</keyword><keyword>microsatellites have developed</keyword><keyword>most popular genetic markers</keyword><keyword>received 22 july 2002</keyword><keyword>revision received 3 october</keyword><keyword>summary statistics</keyword><keyword>within the past decade</keyword></keywords><dates><year>2003</year></dates><electronic-resource-num>10.1046/j.1471-8286</electronic-resource-num><urls><pdf-urls><url>internal-pdf://msa-microsatellite.pdf</url></pdf-urls><web-urls><url>http://onlinelibrary.wiley.com/doi/10.1046/j.1471-8286.2003.00351.x/full</url></web-urls></urls></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Thorne, Lesley H</author><author>Johnston, David W</author><author>Urban, Dean L</author><author>Tyne, Julian</author><author>Bejder, Lars</author><author>Baird, Robin W</author><author>Yin, Suzanne</author><author>Rickards, Susan H</author><author>Deakos, Mark H</author><author>Mobley, Joseph R</author><author>Pack, Adam a</author><author>Chapla Hill, Marie</author></authors></contributors><titles><title>Predictive modeling of spinner dolphin (Stenella longirostris) resting habitat in the main Hawaiian Islands.</title><secondary-title>PloS one</secondary-title></titles><periodical><full-title>PloS one</full-title></periodical><pages>e43167</pages><volume>7</volume><issue>8</issue><keywords/><dates><year>2012</year></dates><accession-num>22937022</accession-num><electronic-resource-num>10.1371/journal.pone.0043167</electronic-resource-num><urls><pdf-urls><url>internal-pdf://</url></pdf-urls><web-urls><url>http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3427338&amp;tool=pmcentrez&amp;rendertype=abstract</url></web-urls></urls><abstract>Predictive habitat models can provide critical information that is necessary in many conservation applications. Using Maximum Entropy modeling, we characterized habitat relationships and generated spatial predictions of spinner dolphin (Stenella longirostris) resting habitat in the main Hawaiian Islands. Spinner dolphins in Hawai'i exhibit predictable daily movements, using inshore bays as resting habitat during daylight hours and foraging in offshore waters at night. There are growing concerns regarding the effects of human activities on spinner dolphins resting in coastal areas. However, the environmental factors that define suitable resting habitat remain unclear and must be assessed and quantified in order to properly address interactions between humans and spinner dolphins. We used a series of dolphin sightings from recent surveys in the main Hawaiian Islands and a suite of environmental variables hypothesized as being important to resting habitat to model spinner dolphin resting habitat. The model performed well in predicting resting habitat and indicated that proximity to deep water foraging areas, depth, the proportion of bays with shallow depths, and rugosity were important predictors of spinner dolphin habitat. Predicted locations of suitable spinner dolphin resting habitat provided in this study indicate areas where future survey efforts should be focused and highlight potential areas of conflict with human activities. This study provides an example of a presence-only habitat model used to inform the management of a species for which patterns of habitat availability are poorly understood.</abstract></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Egeland, T.</author><author>Salas, a.</author></authors></contributors><titles><title>Statistical Evaluation of Haploid Genetic Evidence</title><secondary-title>The Open Forensic Science Journal</secondary-title></titles><periodical><full-title>The Open Forensic Science Journal</full-title></periodical><pages>4-11</pages><volume>1</volume><issue>1</issue><keywords/><dates><year>2008</year></dates><electronic-resource-num>10.2174/1874402800801010004</electronic-resource-num><urls><pdf-urls><url>internal-pdf://4TOFORSJ.pdf</url></pdf-urls><web-urls><url>http://benthamscience.com/open/openaccess.php?toforsj/articles/V001/4TOFORSJ.htm</url></web-urls></urls></record><record><database name="genegis.enl" path="genegis.enl">genegis.enl</database><ref-type name="Journal Article">0</ref-type><contributors><authors><author>Hardy, OJ</author><author>Vekemans, X</author></authors></contributors><titles><title>SPAGeDi: a versatile computer program to analyse spatial genetic structure at the individual or population levels</title><secondary-title>Molecular Ecology Notes</secondary-title></titles><periodical><full-title>Molecular Ecology Notes</full-title></periodical><pages>618-620</pages><keywords><keyword>2002</keyword><keyword>accepted 26 july 2002</keyword><keyword>genetic differentiation</keyword><keyword>genetic diversity</keyword><keyword>genetic structure</keyword><keyword>is</keyword><keyword>isolation by distance</keyword><keyword>ploidy</keyword><keyword>poly-</keyword><keyword>received 11 june 2002</keyword><keyword>relatedness coefficients</keyword><keyword>revision received 26 july</keyword><keyword>software</keyword><keyword>spagedi</keyword><keyword>spatial pattern analysis of</keyword></keywords><dates><year>2002</year></dates><electronic-resource-num>10.1046/j.1471-8278</electronic-resource-num><notes>1224 citations	</notes><research-notes>1224 citations	</research-notes><urls><pdf-urls><url>internal-pdf://Spagedi_MENotes2002.pdf</url></pdf-urls><web-urls><url>http://onlinelibrary.wiley.com/doi/10.1046/j.1471-8286.2002.00305.x/full</url></web-urls></urls></record></records></xml>
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <records>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Holmberg, Jason</author>
+          <author>Norman, Bradley</author>
+          <author>Arzoumanian, Zaven</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Robust, comparable population metrics through
+        collaborative photo-monitoring of whale sharks Rhincodon
+        typus.</title>
+        <secondary-title>Ecological applications : a publication of
+        the Ecological Society of America</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Ecological applications : a publication of the
+        Ecological Society of America</full-title>
+      </periodical>
+      <pages>222-33</pages>
+      <volume>18</volume>
+      <issue>1</issue>
+      <keywords>
+        <keyword>Animals</keyword>
+        <keyword>Environmental Monitoring</keyword>
+        <keyword>Population Density</keyword>
+        <keyword>Probability</keyword>
+        <keyword>Sharks</keyword>
+      </keywords>
+      <dates>
+        <year>2008</year>
+      </dates>
+      <accession-num>18372568</accession-num>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://EcolApps-ecol-apps-2008.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>http://www.ncbi.nlm.nih.gov/pubmed/18372568</url>
+        </web-urls>
+      </urls>
+      <abstract>The formulation of conservation policy for species
+      that are rare and migratory requires broad cooperation to
+      ensure that adequate levels of standardized data collection
+      are achieved and that the results of local analyses are
+      comparable. Estimates of apparent survival rate, relative
+      change in abundance, and proportions of newly marked and
+      returning individuals can inform local management decisions
+      while highlighting corresponding changes at other linked
+      research stations. We have applied computer-assisted
+      photo-identification and mark-recapture population modeling
+      to whale sharks Rhincodon typus at Ningaloo Marine Park
+      (NMP), Western Australia, to create a baseline trend for
+      comparison with other regional aggregations of the species.
+      We estimate several ecological parameters of interest,
+      including an average apparent survival rate of 0.55 yr(-1)
+      for sharks newly marked (new) and 0.83 yr(-1) for sharks
+      captured in multiple seasons (philopatric). The average
+      proportion of philopatric sharks is found to be 0.65 of the
+      total population, and we derive an average population growth
+      rate of 1.12 yr(-1) for them. Our analysis uncovered
+      significant heterogeneity in capture and survival
+      probabilities in this study population; our chosen model
+      structures and data analysis account for these influences and
+      demonstrate a good overall fit to the time-series data. The
+      results show good correspondence between capture probability
+      and an available measure of recapture effort, suggesting that
+      unmodeled systematic effects contribute insignificantly to
+      the model fits. We find no evidence of a decline in the whale
+      shark population at NMP, and our results provide metrics of
+      value to their future management. Overall, our study suggests
+      an effective approach to analyzing and modeling
+      mark-recapture data for a rare species using
+      computer-assisted photo-identification and opportunistic data
+      collection from ecotourism to ensure the quality and volume
+      of data required for population analysis.</abstract>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Bonin, a</author>
+          <author>Ehrich, D</author>
+          <author>Manel, S</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Statistical analysis of amplified fragment length
+        polymorphism data: a toolbox for molecular ecologists and
+        evolutionists.</title>
+        <secondary-title>Molecular ecology</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Molecular ecology</full-title>
+      </periodical>
+      <pages>3737-58</pages>
+      <volume>16</volume>
+      <issue>18</issue>
+      <keywords>
+        <keyword>Biological Evolution</keyword>
+        <keyword>Computational Biology</keyword>
+        <keyword>Computational Biology: methods</keyword>
+        <keyword>Computer Simulation</keyword>
+        <keyword>Ecology</keyword>
+        <keyword>Ecology: methods</keyword>
+        <keyword>Gene Frequency</keyword>
+        <keyword>Genetic Markers</keyword>
+        <keyword>Genetic Techniques</keyword>
+        <keyword>Hybridization, Genetic</keyword>
+        <keyword>Phenotype</keyword>
+        <keyword>Polymorphism, Genetic</keyword>
+        <keyword>Software</keyword>
+      </keywords>
+      <dates>
+        <year>2007</year>
+      </dates>
+      <accession-num>17850542</accession-num>
+      <electronic-resource-num>
+      10.1111/j.1365-294X.2007.03435.x</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://manelBoninetal2007AFLP_ME.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>http://www.ncbi.nlm.nih.gov/pubmed/17850542</url>
+        </web-urls>
+      </urls>
+      <abstract>Recently, the amplified fragment length
+      polymorphism (AFLP) technique has gained a lot of popularity,
+      and is now frequently applied to a wide variety of organisms.
+      Technical specificities of the AFLP procedure have been well
+      documented over the years, but there is on the contrary
+      little or scattered information about the statistical
+      analysis of AFLPs. In this review, we describe the various
+      methods available to handle AFLP data, focusing on four
+      research topics at the population or individual level of
+      analysis: (i) assessment of genetic diversity; (ii)
+      identification of population structure; (iii) identification
+      of hybrid individuals; and (iv) detection of markers
+      associated with phenotypes. Two kinds of analysis methods can
+      be distinguished, depending on whether they are based on the
+      direct study of band presences or absences in AFLP profiles
+      ('band-based' methods), or on allelic frequencies estimated
+      at each locus from these profiles ('allele frequency-based'
+      methods). We investigate the characteristics and limitations
+      of these statistical tools; finally, we appeal for a wider
+      adoption of methodologies borrowed from other research
+      fields, like for example those especially designed to deal
+      with binary data.</abstract>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Holmberg, J</author>
+          <author>Norman, B</author>
+          <author>Arzoumanian, Z</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Estimating population size, structure, and residency
+        time for whale sharks Rhincodon typus through collaborative
+        photo-identification</title>
+        <secondary-title>Endangered Species
+        Research</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Endangered Species Research</full-title>
+      </periodical>
+      <pages>39-53</pages>
+      <volume>7</volume>
+      <issue>May</issue>
+      <keywords>
+        <keyword>mark-recapture</keyword>
+        <keyword>of the publisher</keyword>
+        <keyword>open robust design</keyword>
+        <keyword>permitted without written consent</keyword>
+        <keyword>population biology</keyword>
+        <keyword>resale or republication not</keyword>
+        <keyword>rhincodon typus</keyword>
+        <keyword>survivorship</keyword>
+        <keyword>transience</keyword>
+        <keyword>whale shark</keyword>
+      </keywords>
+      <dates>
+        <year>2009</year>
+      </dates>
+      <electronic-resource-num>
+      10.3354/esr00186</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>
+          internal-pdf://holmberg-collaborative-whale-sharks.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>
+          http://www.int-res.com/abstracts/esr/v7/n1/p39-53/</url>
+        </web-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Roberts, Jason J.</author>
+          <author>Best, Benjamin D.</author>
+          <author>Dunn, Daniel C.</author>
+          <author>Treml, Eric a.</author>
+          <author>Halpin, Patrick N.</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Marine Geospatial Ecology Tools: An integrated
+        framework for ecological geoprocessing with ArcGIS, Python,
+        R, MATLAB, and C++</title>
+        <secondary-title>Environmental Modelling &amp;
+        Software</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Environmental Modelling &amp;
+        Software</full-title>
+      </periodical>
+      <pages>1197-1207</pages>
+      <volume>25</volume>
+      <issue>10</issue>
+      <keywords />
+      <dates>
+        <year>2010</year>
+      </dates>
+      <publisher>Elsevier Ltd</publisher>
+      <electronic-resource-num>
+      10.1016/j.envsoft.2010.03.029</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://MGET-background-2010.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>
+          http://linkinghub.elsevier.com/retrieve/pii/S1364815210000885</url>
+        </web-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Caporaso, JG</author>
+          <author>Kuczynski, Justin</author>
+          <author>Stombaugh, Jesse</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>QIIME allows analysis of high-throughput community
+        sequencing data</title>
+        <secondary-title>Nature
+        &#226;&#8364;&#166;</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Nature &#226;&#8364;&#166;</full-title>
+      </periodical>
+      <pages>335-336</pages>
+      <volume>7</volume>
+      <issue>5</issue>
+      <keywords />
+      <dates>
+        <year>2010</year>
+      </dates>
+      <publisher>Nature Publishing Group</publisher>
+      <electronic-resource-num>
+      10.1038/nmeth0510-335</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://qiime-paper-2010.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>http://dx.doi.org/10.1038/nmeth0510-335</url>
+          <url>
+          http://www.nature.com/nmeth/journal/v7/n5/full/nmeth.f.303.html</url>
+        </web-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>De Mita, St&#195;&#169;phane</author>
+          <author>Siol, Mathieu</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>EggLib: processing, analysis and simulation tools
+        for population genetics and genomics.</title>
+        <secondary-title>BMC genetics</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>BMC genetics</full-title>
+      </periodical>
+      <pages>27</pages>
+      <volume>13</volume>
+      <issue>1</issue>
+      <keywords>
+        <keyword>Computer Simulation</keyword>
+        <keyword>Genetics, Population</keyword>
+        <keyword>Genomics</keyword>
+        <keyword>Software</keyword>
+      </keywords>
+      <dates>
+        <year>2012</year>
+      </dates>
+      <publisher>BioMed Central Ltd</publisher>
+      <accession-num>22494792</accession-num>
+      <electronic-resource-num>
+      10.1186/1471-2156-13-27</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>
+          internal-pdf://DeMita-2012-EggLib-pop-genetics-tools.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>
+          http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3350404&amp;tool=pmcentrez&amp;rendertype=abstract</url>
+        </web-urls>
+      </urls>
+      <abstract>With the considerable growth of available
+      nucleotide sequence data over the last decade, integrated and
+      flexible analytical tools have become a necessity. In
+      particular, in the field of population genetics, there is a
+      strong need for automated and reliable procedures to conduct
+      repeatable and rapid polymorphism analyses, coalescent
+      simulations, data manipulation and estimation of demographic
+      parameters under a variety of scenarios.</abstract>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Franklin, Erik C</author>
+          <author>Stat, Michael</author>
+          <author>Pochon, Xavier</author>
+          <author>Putnam, Hollie M</author>
+          <author>Gates, Ruth D</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>GeoSymbio: a hybrid, cloud-based web application of
+        global geospatial bioinformatics and ecoinformatics for
+        Symbiodinium-host symbioses.</title>
+        <secondary-title>Molecular ecology
+        resources</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Molecular ecology resources</full-title>
+      </periodical>
+      <pages>369-73</pages>
+      <volume>12</volume>
+      <issue>2</issue>
+      <keywords>
+        <keyword>Animals</keyword>
+        <keyword>Computational Biology</keyword>
+        <keyword>Computational Biology: instrumentation</keyword>
+        <keyword>Computational Biology: methods</keyword>
+        <keyword>Dinoflagellida</keyword>
+        <keyword>Dinoflagellida: genetics</keyword>
+        <keyword>Dinoflagellida: physiology</keyword>
+        <keyword>Invertebrates</keyword>
+        <keyword>Invertebrates: genetics</keyword>
+        <keyword>Invertebrates: physiology</keyword>
+        <keyword>Software</keyword>
+        <keyword>Symbiosis</keyword>
+        <keyword>User-Computer Interface</keyword>
+      </keywords>
+      <dates>
+        <year>2012</year>
+      </dates>
+      <accession-num>22018222</accession-num>
+      <electronic-resource-num>
+      10.1111/j.1755-0998.2011.03081.x</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>
+          internal-pdf://Franklinetal_GeoSymbio_Hybrid.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>http://www.ncbi.nlm.nih.gov/pubmed/22018222</url>
+        </web-urls>
+      </urls>
+      <abstract>The genus Symbiodinium encompasses a group of
+      unicellular, photosynthetic dinoflagellates that are found
+      free living or in hospite with a wide range of marine
+      invertebrate hosts including scleractinian corals. We present
+      GeoSymbio, a hybrid web application that provides an online,
+      easy to use and freely accessible interface for users to
+      discover, explore and utilize global geospatial bioinformatic
+      and ecoinformatic data on Symbiodinium-host symbioses. The
+      novelty of this application lies in the combination of a
+      variety of query and visualization tools, including dynamic
+      searchable maps, data tables with filter and grouping
+      functions, and interactive charts that summarize the data.
+      Importantly, this application is hosted remotely or 'in the
+      cloud' using Google Apps, and therefore does not require any
+      specialty GIS, web programming or data programming expertise
+      from the user. The current version of the application
+      utilizes Symbiodinium data based on the ITS2 genetic marker
+      from PCR-based techniques, including denaturing gradient gel
+      electrophoresis, sequencing and cloning of specimens
+      collected during 1982-2010. All data elements of the
+      application are also downloadable as spatial files, tables
+      and nucleic acid sequence files in common formats for desktop
+      analysis. The application provides a unique tool set to
+      facilitate research on the basic biology of Symbiodinium and
+      expedite new insights into their ecology, biogeography and
+      evolution in the face of a changing global climate. GeoSymbio
+      can be accessed at
+      https://sites.google.com/site/geosymbio/.</abstract>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Ray, Nicolas</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Pathmatrix: a Geographical Information System Tool
+        To Compute Effective Distances Among Samples</title>
+        <secondary-title>Molecular Ecology Notes</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Molecular Ecology Notes</full-title>
+      </periodical>
+      <pages>177-180</pages>
+      <volume>5</volume>
+      <issue>1</issue>
+      <keywords>
+        <keyword>2004</keyword>
+        <keyword>accepted 06 october 2004</keyword>
+        <keyword>distance matrix</keyword>
+        <keyword>ecological distance</keyword>
+        <keyword>fine-scaled digital represent-</keyword>
+        <keyword>heterogeneous landscape</keyword>
+        <keyword>isolation by distance</keyword>
+        <keyword>least-cost path</keyword>
+        <keyword>received 03 september 2004</keyword>
+        <keyword>revision received 17 september</keyword>
+        <keyword>spatial genetic structure</keyword>
+        <keyword>the increasing availability of</keyword>
+      </keywords>
+      <dates>
+        <year>2005</year>
+      </dates>
+      <electronic-resource-num>
+      10.1111/j.1471-8286.2004.00843.x</electronic-resource-num>
+      <notes>124 citations</notes>
+      <research-notes>124 citations</research-notes>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://pathmatrix-ray-2004.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>
+          http://doi.wiley.com/10.1111/j.1471-8286.2004.00843.x</url>
+        </web-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Shirk, a J</author>
+          <author>Cushman, S a</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>sGD: software for estimating spatially explicit
+        indices of genetic diversity.</title>
+        <secondary-title>Molecular ecology
+        resources</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Molecular ecology resources</full-title>
+      </periodical>
+      <pages>922-34</pages>
+      <volume>11</volume>
+      <issue>5</issue>
+      <keywords>
+        <keyword>Animals</keyword>
+        <keyword>Computer Simulation</keyword>
+        <keyword>Conservation of Natural Resources</keyword>
+        <keyword>Conservation of Natural Resources:
+        methods</keyword>
+        <keyword>Demography</keyword>
+        <keyword>Genetic Variation</keyword>
+        <keyword>Genetics, Population</keyword>
+        <keyword>Ruminants</keyword>
+        <keyword>Ruminants: genetics</keyword>
+        <keyword>Software</keyword>
+        <keyword>Washington</keyword>
+      </keywords>
+      <dates>
+        <year>2011</year>
+      </dates>
+      <accession-num>21679313</accession-num>
+      <electronic-resource-num>
+      10.1111/j.1755-0998.2011.03035.x</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://Shirk11_landscape genetics.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>http://www.ncbi.nlm.nih.gov/pubmed/21679313</url>
+        </web-urls>
+      </urls>
+      <abstract>Anthropogenic landscape changes have greatly
+      reduced the population size, range and migration rates of
+      many terrestrial species. The small local effective
+      population size of remnant populations favours loss of
+      genetic diversity leading to reduced fitness and adaptive
+      potential, and thus ultimately greater extinction risk.
+      Accurately quantifying genetic diversity is therefore crucial
+      to assessing the viability of small populations. Diversity
+      indices are typically calculated from the multilocus
+      genotypes of all individuals sampled within discretely
+      defined habitat patches or larger regional extents.
+      Importantly, discrete population approaches do not capture
+      the clinal nature of populations genetically isolated by
+      distance or landscape resistance. Here, we introduce spatial
+      Genetic Diversity (sGD), a new spatially explicit tool to
+      estimate genetic diversity based on grouping individuals into
+      potentially overlapping genetic neighbourhoods that match the
+      population structure, whether discrete or clinal. We compared
+      the estimates and patterns of genetic diversity using patch
+      or regional sampling and sGD on both simulated and empirical
+      populations. When the population did not meet the assumptions
+      of an island model, we found that patch and regional sampling
+      generally overestimated local heterozygosity, inbreeding and
+      allelic diversity. Moreover, sGD revealed fine-scale spatial
+      heterogeneity in genetic diversity that was not evident with
+      patch or regional sampling. These advantages should provide a
+      more robust means to evaluate the potential for genetic
+      factors to influence the viability of clinal populations and
+      guide appropriate conservation plans.</abstract>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Boettiger, AN</author>
+          <author>Wittemyer, George</author>
+          <author>Starfield, Richard</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Inferring ecological and behavioral drivers of
+        African elephant movement using a linear filtering
+        approach</title>
+        <secondary-title>Ecology</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Ecology</full-title>
+      </periodical>
+      <pages>1648-57</pages>
+      <volume>92</volume>
+      <issue>8</issue>
+      <keywords>
+        <keyword>Animal</keyword>
+        <keyword>Animals</keyword>
+        <keyword>Behavior</keyword>
+        <keyword>Biological</keyword>
+        <keyword>Ecosystem</keyword>
+        <keyword>Elephants</keyword>
+        <keyword>Elephants: physiology</keyword>
+        <keyword>Models</keyword>
+        <keyword>Movement</keyword>
+        <keyword>Population Dynamics</keyword>
+      </keywords>
+      <dates>
+        <year>2011</year>
+      </dates>
+      <accession-num>21905431</accession-num>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://Boettiger_Inferring(2011).pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>http://www.ncbi.nlm.nih.gov/pubmed/21905431</url>
+          <url>
+          http://www.esajournals.org/doi/abs/10.1890/10-0106.1</url>
+        </web-urls>
+      </urls>
+      <abstract>Understanding the environmental factors influencing
+      animal movements is fundamental to theoretical and applied
+      research in the field of movement ecology. Studies relating
+      fine-scale movement paths to spatiotemporally structured
+      landscape data, such as vegetation productivity or human
+      activity, are particularly lacking despite the obvious
+      importance of such information to understanding drivers of
+      animal movement. In part, this may be because few approaches
+      provide the sophistication to characterize the complexity of
+      movement behavior and relate it to diverse, varying
+      environmental stimuli. We overcame this hurdle by applying,
+      for the first time to an ecological question, a finite
+      impulse-response signal-filtering approach to identify human
+      and natural environmental drivers of movements of 13
+      free-ranging African elephants (Loxodonta africana) from
+      distinct social groups collected over seven years. A minimum
+      mean-square error (MMSE) estimation criterion allowed
+      comparison of the predictive power of landscape and
+      ecological model inputs. We showed that a filter combining
+      vegetation dynamics, human and physical landscape features,
+      and previous movement outperformed simpler filter structures,
+      indicating the importance of both dynamic and static
+      landscape features, as well as habit, on movement decisions
+      taken by elephants. Elephant responses to vegetation
+      productivity indices were not uniform in time or space,
+      indicating that elephant foraging strategies are more complex
+      than simply gravitation toward areas of high productivity.
+      Predictions were most frequently inaccurate outside protected
+      area boundaries near human settlements, suggesting that human
+      activity disrupts typical elephant movement behavior.
+      Successful management strategies at the human-elephant
+      interface, therefore, are likely to be context specific and
+      dynamic. Signal processing provides a promising approach for
+      elucidating environmental factors that drive animal movements
+      over large time and spatial scales.</abstract>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Miller, M P</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Alleles in space (AIS): computer software for the
+        joint analysis of interindividual spatial and genetic
+        information.</title>
+        <secondary-title>The Journal of heredity</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>The Journal of heredity</full-title>
+      </periodical>
+      <pages>722-4</pages>
+      <volume>96</volume>
+      <issue>6</issue>
+      <keywords>
+        <keyword>Alleles</keyword>
+        <keyword>Demography</keyword>
+        <keyword>Genetics</keyword>
+        <keyword>Genetics, Population</keyword>
+        <keyword>Software</keyword>
+      </keywords>
+      <dates>
+        <year>2005</year>
+      </dates>
+      <accession-num>16251514</accession-num>
+      <electronic-resource-num>
+      10.1093/jhered/esi119</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://J Hered-2005-Miller-722-4.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>http://www.ncbi.nlm.nih.gov/pubmed/16251514</url>
+        </web-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Wall, Jake</author>
+          <author>Wittemyer, George</author>
+          <author>Klinkenberg, Brian</author>
+          <author>Lemay, Valerie</author>
+          <author>Douglas-hamilton, Iain</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Characterizing properties and drivers of long
+        distance movements by elephants ( Loxodonta africana ) in
+        the Gourma , Mali</title>
+        <secondary-title>BIOLOGICAL CONSERVATION</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>BIOLOGICAL CONSERVATION</full-title>
+      </periodical>
+      <pages>60-68</pages>
+      <volume>157</volume>
+      <keywords />
+      <dates>
+        <year>2013</year>
+      </dates>
+      <publisher>Elsevier Ltd</publisher>
+      <electronic-resource-num>
+      10.1016/j.biocon.2012.07.019</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>
+          internal-pdf://1-s2.0-S0006320712003394-main.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>http://dx.doi.org/10.1016/j.biocon.2012.07.019</url>
+        </web-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Package, Type</author>
+          <author>Sebastien, Author</author>
+          <author>Paquette, Rioux</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Package &#226;&#8364;&#732; PopGenKit
+        &#226;&#8364;&#8482;</title>
+      </titles>
+      <periodical />
+      <keywords />
+      <dates>
+        <year>2012</year>
+      </dates>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://PopGenKit.pdf</url>
+        </pdf-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Konovalov, Dmitry a.</author>
+          <author>Manning, Clint</author>
+          <author>Henshaw, Michael T.</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Kingroup: a Program for Pedigree Relationship
+        Reconstruction and Kin Group Assignments Using Genetic
+        Markers</title>
+        <secondary-title>Molecular Ecology Notes</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Molecular Ecology Notes</full-title>
+      </periodical>
+      <pages>779-782</pages>
+      <volume>4</volume>
+      <issue>4</issue>
+      <keywords>
+        <keyword>2004</keyword>
+        <keyword>accepted 9 august 2004</keyword>
+        <keyword>and infer genealogical</keyword>
+        <keyword>ecologists use molecular data</keyword>
+        <keyword>estimate relatedness</keyword>
+        <keyword>increasingly</keyword>
+        <keyword>kinship</keyword>
+        <keyword>likelihood</keyword>
+        <keyword>partition</keyword>
+        <keyword>pedigree</keyword>
+        <keyword>pedigrees</keyword>
+        <keyword>received 24 march 2004</keyword>
+        <keyword>revision received 27 july</keyword>
+        <keyword>simulation</keyword>
+        <keyword>software</keyword>
+        <keyword>to reconstruct</keyword>
+      </keywords>
+      <dates>
+        <year>2004</year>
+      </dates>
+      <electronic-resource-num>
+      10.1111/j.1471-8286.2004.00796.x</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://kingroup-paper.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>
+          http://doi.wiley.com/10.1111/j.1471-8286.2004.00796.x</url>
+        </web-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Vandergast, Amy G</author>
+          <author>Perry, William M</author>
+          <author>Lugo, Roberto V</author>
+          <author>Hathaway, Stacie a</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Genetic Landscapes GIS Toolbox: tools to map
+        patterns of genetic divergence and diversity.</title>
+        <secondary-title>Molecular ecology
+        resources</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Molecular ecology resources</full-title>
+      </periodical>
+      <pages>158-61</pages>
+      <volume>11</volume>
+      <issue>1</issue>
+      <keywords>
+        <keyword>Evolution, Molecular</keyword>
+        <keyword>Genetic Variation</keyword>
+        <keyword>Genetics, Population</keyword>
+        <keyword>Genetics, Population: instrumentation</keyword>
+        <keyword>Geographic Information Systems</keyword>
+        <keyword>Geographic Information Systems:
+        instrumentation</keyword>
+        <keyword>Geography</keyword>
+      </keywords>
+      <dates>
+        <year>2011</year>
+      </dates>
+      <accession-num>21429115</accession-num>
+      <electronic-resource-num>
+      10.1111/j.1755-0998.2010.02904.x</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://Vandergastetal2010.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>http://www.ncbi.nlm.nih.gov/pubmed/21429115</url>
+        </web-urls>
+      </urls>
+      <abstract>The Landscape Genetics GIS Toolbox contains tools
+      that run in the Geographic Information System software,
+      ArcGIS(&#194;&#174;), to map genetic landscapes and to
+      summarize multiple genetic landscapes as average and variance
+      surfaces. These tools can be used to visualize the
+      distribution of genetic diversity across geographic space and
+      to study associations between patterns of genetic diversity
+      and geographic features or other geo-referenced environmental
+      data sets. Together, these tools create genetic landscape
+      surfaces directly from tables containing genetic distance or
+      diversity data and sample location coordinates, greatly
+      reducing the complexity of building and analyzing these
+      raster surfaces in a Geographic Information
+      System.</abstract>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Excoffier, Laurent</author>
+          <author>Heckel, Gerald</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Computer programs for population genetics data
+        analysis: a survival guide.</title>
+        <secondary-title>Nature reviews. Genetics</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Nature reviews. Genetics</full-title>
+      </periodical>
+      <pages>745-58</pages>
+      <volume>7</volume>
+      <issue>10</issue>
+      <keywords>
+        <keyword>Computers</keyword>
+        <keyword>Genetics, Population</keyword>
+        <keyword>Genetics, Population: methods</keyword>
+        <keyword>Humans</keyword>
+        <keyword>Software</keyword>
+        <keyword>Statistics as Topic</keyword>
+        <keyword>Statistics as Topic: methods</keyword>
+      </keywords>
+      <dates>
+        <year>2006</year>
+      </dates>
+      <accession-num>16924258</accession-num>
+      <electronic-resource-num>
+      10.1038/nrg1904</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>
+          internal-pdf://Excoffier-2006-Nature-population-genetics-software-review.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>http://www.ncbi.nlm.nih.gov/pubmed/16924258</url>
+        </web-urls>
+      </urls>
+      <abstract>The analysis of genetic diversity within species is
+      vital for understanding evolutionary processes at the
+      population level and at the genomic level. A large quantity
+      of data can now be produced at an unprecedented rate,
+      requiring the use of dedicated computer programs to extract
+      all embedded information. Several statistical packages have
+      been recently developed, which offer a panel of standard and
+      more sophisticated analyses. We describe here the
+      functionalities, special features and assumptions of more
+      than 20 such programs, indicate how they can interoperate,
+      and discuss new directions that could lead to improved
+      software and analyses.</abstract>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Etherington, Thomas R.</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Python based GIS tools for landscape genetics:
+        visualising genetic relatedness and measuring landscape
+        connectivity</title>
+        <secondary-title>Methods in Ecology and
+        Evolution</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Methods in Ecology and Evolution</full-title>
+      </periodical>
+      <pages>52-55</pages>
+      <volume>2</volume>
+      <issue>1</issue>
+      <keywords />
+      <dates>
+        <year>2011</year>
+      </dates>
+      <electronic-resource-num>
+      10.1111/j.2041-210X.2010.00048.x</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>
+          internal-pdf://Etherington-2011-Genetic-Landscapes-Toolbox.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>
+          http://doi.wiley.com/10.1111/j.2041-210X.2010.00048.x</url>
+        </web-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Arrigo, Nils</author>
+          <author>Albert, Loren P</author>
+          <author>Mickelson, Pascal G</author>
+          <author>Barker, Michael S</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Quantitative visualization of biological data in
+        Google Earth using R2G2, an R CRAN package.</title>
+        <secondary-title>Molecular ecology
+        resources</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Molecular ecology resources</full-title>
+      </periodical>
+      <pages>1177-9</pages>
+      <volume>12</volume>
+      <issue>6</issue>
+      <keywords>
+        <keyword>2012</keyword>
+        <keyword>accepted 1 august 2012</keyword>
+        <keyword>keyhole markup language</keyword>
+        <keyword>phylogeny</keyword>
+        <keyword>r package</keyword>
+        <keyword>received 15 may 2012</keyword>
+        <keyword>revision received 31 july</keyword>
+        <keyword>spatial data visualization</keyword>
+        <keyword>species diversity</keyword>
+      </keywords>
+      <dates>
+        <year>2012</year>
+      </dates>
+      <accession-num>22994899</accession-num>
+      <electronic-resource-num>
+      10.1111/1755-0998.12012</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://Arrigo12_Google Earth R2.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>http://www.ncbi.nlm.nih.gov/pubmed/22994899</url>
+        </web-urls>
+      </urls>
+      <abstract>We briefly introduce R2G2, an R CRAN package to
+      visualize spatially explicit biological data within the
+      Google Earth interface. Our package combines a collection of
+      basic graph-editing features, including automated placement
+      of dots, segments, polygons, images (including graphs
+      produced with R), along with several complex
+      three-dimensional (3D) representations such as phylogenies,
+      histograms and pie charts. We briefly present some example
+      data sets and show the immediate benefits in communication
+      gained from using the Google Earth interface to visually
+      explore biological results. The package is distributed with
+      detailed help pages providing examples and annotated source
+      scripts with the hope that users will have an easy time using
+      and further developing this package. R2G2 is distributed on
+      http://cran.r-project.org/web/packages.</abstract>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Duforet-frebourg, Nicolas</author>
+          <author>Blum, Michael G B</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Non-stationary patterns of isolation-by-distance:
+        inferring measures of genetic friction.</title>
+      </titles>
+      <periodical />
+      <keywords>
+        <keyword>00 65</keyword>
+        <keyword>33 4 56 52</keyword>
+        <keyword>38706 la tronche</keyword>
+        <keyword>corresponding author</keyword>
+        <keyword>facult&#195;&#169; de
+        m&#195;&#169;decine</keyword>
+        <keyword>france</keyword>
+        <keyword>gene flow</keyword>
+        <keyword>genetic barrier</keyword>
+        <keyword>isolation by distance</keyword>
+        <keyword>laboratoire timc-imag</keyword>
+        <keyword>landscape genetics</keyword>
+        <keyword>michael blum</keyword>
+        <keyword>non-stationary kriging</keyword>
+        <keyword>phone</keyword>
+      </keywords>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://Genetic friction.pdf</url>
+        </pdf-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Slothower, Roger L</author>
+          <author>Schwarz, Paul A</author>
+          <author>Johnston, Kevin M</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Some Guidelines For Implementing Spatially Explicit
+        , Individual-Based Ecological Models Within Location-Based
+        Raster GIS .</title>
+      </titles>
+      <periodical />
+      <pages>1-9</pages>
+      <keywords />
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://Some Guidelines For Implementing
+          Spatially Explicit, Individual-Based Ecological Models
+          Within Location-Based Raster GIS..pdf</url>
+        </pdf-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>van Etten, Jacob</author>
+          <author>Hijmans, Robert J</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>A geospatial modelling approach integrating
+        archaeobotany and genetics to trace the origin and
+        dispersal of domesticated plants.</title>
+        <secondary-title>PloS one</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>PloS one</full-title>
+      </periodical>
+      <pages>e12060</pages>
+      <volume>5</volume>
+      <issue>8</issue>
+      <keywords>
+        <keyword>Archaeology</keyword>
+        <keyword>Botany</keyword>
+        <keyword>Evolution, Molecular</keyword>
+        <keyword>Heterozygote</keyword>
+        <keyword>Models, Theoretical</keyword>
+        <keyword>Phylogeny</keyword>
+        <keyword>Plants</keyword>
+        <keyword>Plants: classification</keyword>
+        <keyword>Plants: genetics</keyword>
+      </keywords>
+      <dates>
+        <year>2010</year>
+      </dates>
+      <accession-num>20711460</accession-num>
+      <electronic-resource-num>
+      10.1371/journal.pone.0012060</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>
+          internal-pdf://geospatial-modeling-genetic-distance-vanEtten-2010.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>
+          http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2920323&amp;tool=pmcentrez&amp;rendertype=abstract</url>
+        </web-urls>
+      </urls>
+      <abstract>The study of the prehistoric origins and dispersal
+      routes of domesticated plants is often based on the analysis
+      of either archaeobotanical or genetic data. As more data
+      become available, spatially explicit models of crop dispersal
+      can be used to combine different types of
+      evidence.</abstract>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Peakall, Rod</author>
+          <author>Smouse, Peter E.</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>genalex 6: genetic analysis in Excel. Population
+        genetic software for teaching and research</title>
+        <secondary-title>Molecular Ecology Notes</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Molecular Ecology Notes</full-title>
+      </periodical>
+      <pages>288-295</pages>
+      <volume>6</volume>
+      <issue>1</issue>
+      <keywords>
+        <keyword>2005</keyword>
+        <keyword>amova</keyword>
+        <keyword>analysis that runs within</keyword>
+        <keyword>genalex</keyword>
+        <keyword>genetic analysis in excel</keyword>
+        <keyword>is a cross-platform</keyword>
+        <keyword>package for population genetic</keyword>
+        <keyword>population genetic analysis</keyword>
+        <keyword>received 27 april 2005</keyword>
+        <keyword>revision accepted 4 august</keyword>
+        <keyword>software</keyword>
+        <keyword>spatial autocorrelation</keyword>
+        <keyword>teaching</keyword>
+        <keyword>twogener</keyword>
+      </keywords>
+      <dates>
+        <year>2006</year>
+      </dates>
+      <electronic-resource-num>
+      10.1111/j.1471-8286.2005.01155.x</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>
+          internal-pdf://GenAlEx-genetics-in-excel-2005.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>
+          http://www.blackwell-synergy.com/doi/abs/10.1111/j.1471-8286.2005.01155.x</url>
+        </web-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Kidd, David M</author>
+          <author>Liu, Xianhua</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Geophylobuilder 1.0: an Arcgis Extension for
+        Creating 'Geophylogenies'.</title>
+        <secondary-title>Molecular ecology
+        resources</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Molecular ecology resources</full-title>
+      </periodical>
+      <pages>88-91</pages>
+      <volume>8</volume>
+      <issue>1</issue>
+      <keywords>
+        <keyword>data model</keyword>
+        <keyword>gis</keyword>
+        <keyword>historical biogeography</keyword>
+        <keyword>phylogeography</keyword>
+        <keyword>population genetics</keyword>
+      </keywords>
+      <dates>
+        <year>2008</year>
+      </dates>
+      <accession-num>21585723</accession-num>
+      <electronic-resource-num>
+      10.1111/j.1471-8286.2007.01925.x</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://KiddandLui2008.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>http://www.ncbi.nlm.nih.gov/pubmed/21585723</url>
+        </web-urls>
+      </urls>
+      <abstract>Evolution is inherently a spatiotemporal process;
+      however, despite this, phylogenetic and geographical data and
+      models remain largely isolated from one another. Geographical
+      information systems provide a ready-made spatial modelling,
+      analysis and dissemination environment within which
+      phylogenetic models can be explicitly linked with their
+      associated spatial data and subsequently integrated with
+      other georeferenced data sets describing the biotic and
+      abiotic environment. geophylobuilder 1.0 is an extension for
+      the arcgis geographical information system that builds a
+      'geophylogenetic' data model from a phylogenetic tree and
+      associated geographical data. Geophylogenetic database
+      objects can subsequently be queried, spatially analysed and
+      visualized in both 2D and 3D within a geographical
+      information systems.</abstract>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Clark, Lindsay V</author>
+          <author>Jasieniuk, Marie</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>POLYSAT: an R package for polyploid microsatellite
+        analysis.</title>
+        <secondary-title>Molecular ecology
+        resources</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Molecular ecology resources</full-title>
+      </periodical>
+      <pages>562-6</pages>
+      <volume>11</volume>
+      <issue>3</issue>
+      <keywords>
+        <keyword>Computational Biology</keyword>
+        <keyword>Computational Biology: methods</keyword>
+        <keyword>Genotype</keyword>
+        <keyword>Mathematical Computing</keyword>
+        <keyword>Microsatellite Repeats</keyword>
+        <keyword>Polyploidy</keyword>
+      </keywords>
+      <dates>
+        <year>2011</year>
+      </dates>
+      <accession-num>21481215</accession-num>
+      <electronic-resource-num>
+      10.1111/j.1755-0998.2011.02985.x</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://polysat-r-package-2011.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>http://www.ncbi.nlm.nih.gov/pubmed/21481215</url>
+        </web-urls>
+      </urls>
+      <abstract>We present an R package to help remedy the lack of
+      software for manipulating and analysing autopolyploid and
+      allopolyploid microsatellite data. POLYSAT can handle
+      genotype data of any ploidy, including populations of mixed
+      ploidy, and assumes that allele copy number is always
+      ambiguous in partial heterozygotes. It can import and export
+      genotype data in eight different formats, calculate pairwise
+      distances between individuals using a stepwise mutation and
+      infinite alleles model, estimate ploidy based on allele
+      counts and estimate allele frequencies and pairwise F(ST)
+      values. This software is freely available through the
+      Comprehensive R Archive Network (http://cran.r-project.org/)
+      and includes a thorough tutorial.</abstract>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Wieczorek, John</author>
+          <author>Bloom, David</author>
+          <author>Guralnick, Robert</author>
+          <author>Blum, Stan</author>
+          <author>D&#195;&#182;ring, Markus</author>
+          <author>Giovanni, Renato</author>
+          <author>Robertson, Tim</author>
+          <author>Vieglais, David</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Darwin Core: an evolving community-developed
+        biodiversity data standard.</title>
+        <secondary-title>PLoS ONE</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>PLoS ONE</full-title>
+      </periodical>
+      <pages>e29715</pages>
+      <volume>7</volume>
+      <issue>1</issue>
+      <keywords>
+        <keyword>Animals</keyword>
+        <keyword>Biodiversity</keyword>
+        <keyword>Biological</keyword>
+        <keyword>Biota</keyword>
+        <keyword>Data Collection</keyword>
+        <keyword>Data Collection: standards</keyword>
+        <keyword>Databases</keyword>
+        <keyword>Environment</keyword>
+        <keyword>Evolution</keyword>
+        <keyword>Factual</keyword>
+        <keyword>Factual: standards</keyword>
+        <keyword>Genetic</keyword>
+        <keyword>Genetic Fitness</keyword>
+        <keyword>Genetic Fitness: genetics</keyword>
+        <keyword>Genetic Fitness: physiology</keyword>
+        <keyword>Guidelines as Topic</keyword>
+        <keyword>Humans</keyword>
+        <keyword>Information Storage and Retrieval</keyword>
+        <keyword>Information Storage and Retrieval:
+        standards</keyword>
+        <keyword>Models</keyword>
+        <keyword>Molecular</keyword>
+        <keyword>Selection</keyword>
+        <keyword>Validation Studies as Topic</keyword>
+      </keywords>
+      <dates>
+        <year>2012</year>
+      </dates>
+      <accession-num>22238640</accession-num>
+      <electronic-resource-num>
+      10.1371/journal.pone.0029715</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://Wieczorek12_Darwin
+          Core_PLoSOne.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>
+          http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3253084&amp;tool=pmcentrez&amp;rendertype=abstract</url>
+        </web-urls>
+      </urls>
+      <abstract>Biodiversity data derive from myriad sources stored
+      in various formats on many distinct hardware and software
+      platforms. An essential step towards understanding global
+      patterns of biodiversity is to provide a standardized view of
+      these heterogeneous data sources to improve interoperability.
+      Fundamental to this advance are definitions of common terms.
+      This paper describes the evolution and development of Darwin
+      Core, a data standard for publishing and integrating
+      biodiversity information. We focus on the categories of terms
+      that define the standard, differences between simple and
+      relational Darwin Core, how the standard has been
+      implemented, and the community processes that are essential
+      for maintenance and growth of the standard. We present
+      case-study extensions of the Darwin Core into new research
+      communities, including metagenomics and genetic resources. We
+      close by showing how Darwin Core records are integrated to
+      create new knowledge products documenting species
+      distributions and changes due to environmental
+      perturbations.</abstract>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Schick, Rs</author>
+          <author>Halpin, Pn</author>
+          <author>Read, Aj</author>
+          <author>Urban, Dl</author>
+          <author>Best, Bd</author>
+          <author>Good, Cp</author>
+          <author>Roberts, Jj</author>
+          <author>LaBrecque, Ea</author>
+          <author>Dunn, C</author>
+          <author>Garrison, Lp</author>
+          <author>Hyrenbach, Kd</author>
+          <author>McLellan, Wa</author>
+          <author>Pabst, Da</author>
+          <author>Palka, Dl</author>
+          <author>Stevick, P</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Community structure in pelagic marine mammals at
+        large spatial scales</title>
+        <secondary-title>Marine Ecology Progress
+        Series</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Marine Ecology Progress Series</full-title>
+      </periodical>
+      <pages>165-181</pages>
+      <volume>434</volume>
+      <keywords>
+        <keyword>cetaceans</keyword>
+        <keyword>group contrast mantel test</keyword>
+        <keyword>multivariate</keyword>
+        <keyword>nonmetric dimensional scaling</keyword>
+        <keyword>northwest atlantic ocean</keyword>
+        <keyword>of the publisher</keyword>
+        <keyword>ordination</keyword>
+        <keyword>permitted without written consent</keyword>
+        <keyword>resale or republication not</keyword>
+      </keywords>
+      <dates>
+        <year>2011</year>
+      </dates>
+      <electronic-resource-num>
+      10.3354/meps09183</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://Schick11 marine mammal large spatical
+          scales_MEPS.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>
+          http://www.int-res.com/abstracts/meps/v434/p165-181/</url>
+        </web-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Dieringer, D</author>
+          <author>Schl&#195;&#182;tterer, C</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Microsatellite analyser (MSA): a platform
+        independent analysis tool for large microsatellite data
+        sets</title>
+        <secondary-title>Molecular Ecology Notes</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Molecular Ecology Notes</full-title>
+      </periodical>
+      <pages>2002-2004</pages>
+      <keywords>
+        <keyword>2002</keyword>
+        <keyword>accepted 3 october 2002</keyword>
+        <keyword>f st</keyword>
+        <keyword>genetic distances</keyword>
+        <keyword>into one of the</keyword>
+        <keyword>large</keyword>
+        <keyword>microsatellites</keyword>
+        <keyword>microsatellites have developed</keyword>
+        <keyword>most popular genetic markers</keyword>
+        <keyword>received 22 july 2002</keyword>
+        <keyword>revision received 3 october</keyword>
+        <keyword>summary statistics</keyword>
+        <keyword>within the past decade</keyword>
+      </keywords>
+      <dates>
+        <year>2003</year>
+      </dates>
+      <electronic-resource-num>
+      10.1046/j.1471-8286</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://msa-microsatellite.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>
+          http://onlinelibrary.wiley.com/doi/10.1046/j.1471-8286.2003.00351.x/full</url>
+        </web-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Thorne, Lesley H</author>
+          <author>Johnston, David W</author>
+          <author>Urban, Dean L</author>
+          <author>Tyne, Julian</author>
+          <author>Bejder, Lars</author>
+          <author>Baird, Robin W</author>
+          <author>Yin, Suzanne</author>
+          <author>Rickards, Susan H</author>
+          <author>Deakos, Mark H</author>
+          <author>Mobley, Joseph R</author>
+          <author>Pack, Adam a</author>
+          <author>Chapla Hill, Marie</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Predictive modeling of spinner dolphin (Stenella
+        longirostris) resting habitat in the main Hawaiian
+        Islands.</title>
+        <secondary-title>PloS one</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>PloS one</full-title>
+      </periodical>
+      <pages>e43167</pages>
+      <volume>7</volume>
+      <issue>8</issue>
+      <keywords />
+      <dates>
+        <year>2012</year>
+      </dates>
+      <accession-num>22937022</accession-num>
+      <electronic-resource-num>
+      10.1371/journal.pone.0043167</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://</url>
+        </pdf-urls>
+        <web-urls>
+          <url>
+          http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3427338&amp;tool=pmcentrez&amp;rendertype=abstract</url>
+        </web-urls>
+      </urls>
+      <abstract>Predictive habitat models can provide critical
+      information that is necessary in many conservation
+      applications. Using Maximum Entropy modeling, we
+      characterized habitat relationships and generated spatial
+      predictions of spinner dolphin (Stenella longirostris)
+      resting habitat in the main Hawaiian Islands. Spinner
+      dolphins in Hawai'i exhibit predictable daily movements,
+      using inshore bays as resting habitat during daylight hours
+      and foraging in offshore waters at night. There are growing
+      concerns regarding the effects of human activities on spinner
+      dolphins resting in coastal areas. However, the environmental
+      factors that define suitable resting habitat remain unclear
+      and must be assessed and quantified in order to properly
+      address interactions between humans and spinner dolphins. We
+      used a series of dolphin sightings from recent surveys in the
+      main Hawaiian Islands and a suite of environmental variables
+      hypothesized as being important to resting habitat to model
+      spinner dolphin resting habitat. The model performed well in
+      predicting resting habitat and indicated that proximity to
+      deep water foraging areas, depth, the proportion of bays with
+      shallow depths, and rugosity were important predictors of
+      spinner dolphin habitat. Predicted locations of suitable
+      spinner dolphin resting habitat provided in this study
+      indicate areas where future survey efforts should be focused
+      and highlight potential areas of conflict with human
+      activities. This study provides an example of a presence-only
+      habitat model used to inform the management of a species for
+      which patterns of habitat availability are poorly
+      understood.</abstract>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Egeland, T.</author>
+          <author>Salas, a.</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Statistical Evaluation of Haploid Genetic
+        Evidence</title>
+        <secondary-title>The Open Forensic Science
+        Journal</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>The Open Forensic Science Journal</full-title>
+      </periodical>
+      <pages>4-11</pages>
+      <volume>1</volume>
+      <issue>1</issue>
+      <keywords />
+      <dates>
+        <year>2008</year>
+      </dates>
+      <electronic-resource-num>
+      10.2174/1874402800801010004</electronic-resource-num>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://4TOFORSJ.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>
+          http://benthamscience.com/open/openaccess.php?toforsj/articles/V001/4TOFORSJ.htm</url>
+        </web-urls>
+      </urls>
+    </record>
+    <record>
+      <database name="genegis.enl" path="genegis.enl">
+      genegis.enl</database>
+      <ref-type name="Journal Article">0</ref-type>
+      <contributors>
+        <authors>
+          <author>Hardy, OJ</author>
+          <author>Vekemans, X</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>SPAGeDi: a versatile computer program to analyse
+        spatial genetic structure at the individual or population
+        levels</title>
+        <secondary-title>Molecular Ecology Notes</secondary-title>
+      </titles>
+      <periodical>
+        <full-title>Molecular Ecology Notes</full-title>
+      </periodical>
+      <pages>618-620</pages>
+      <keywords>
+        <keyword>2002</keyword>
+        <keyword>accepted 26 july 2002</keyword>
+        <keyword>genetic differentiation</keyword>
+        <keyword>genetic diversity</keyword>
+        <keyword>genetic structure</keyword>
+        <keyword>is</keyword>
+        <keyword>isolation by distance</keyword>
+        <keyword>ploidy</keyword>
+        <keyword>poly-</keyword>
+        <keyword>received 11 june 2002</keyword>
+        <keyword>relatedness coefficients</keyword>
+        <keyword>revision received 26 july</keyword>
+        <keyword>software</keyword>
+        <keyword>spagedi</keyword>
+        <keyword>spatial pattern analysis of</keyword>
+      </keywords>
+      <dates>
+        <year>2002</year>
+      </dates>
+      <electronic-resource-num>
+      10.1046/j.1471-8278</electronic-resource-num>
+      <notes>1224 citations</notes>
+      <research-notes>1224 citations</research-notes>
+      <urls>
+        <pdf-urls>
+          <url>internal-pdf://Spagedi_MENotes2002.pdf</url>
+        </pdf-urls>
+        <web-urls>
+          <url>
+          http://onlinelibrary.wiley.com/doi/10.1046/j.1471-8286.2002.00305.x/full</url>
+        </web-urls>
+      </urls>
+    </record>
+  </records>
+</xml>
